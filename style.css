@@ -1,0 +1,70 @@
+.form-container {
+    color: black;
+    opacity: 0.85;
+    max-width: 500px;
+    background: transparent;
+    background-color: whitesmoke;
+    border-radius: 5px;
+    border: 1px solid #bfcdcf;
+    padding: 30px;
+    height: auto;
+    align-content: center;
+    position: relative;
+    display: none;
+    margin-left: 400px;
+
+  }
+
+  .open-button {
+    max-width: 350px;
+    background-color: crimson;
+    border-radius: 5px;
+    border: 1px solid crimson;
+    padding: 5px;
+    height: auto;
+    align-content: center;
+    cursor: pointer;
+    margin-left: 500px;
+    background-size: 100px;
+  }
+
+  .signup {
+    background-color: rgb(1, 228, 1);
+    padding: 5px;
+    height: auto;
+    margin: 10px;
+    align-content: center;
+    cursor: pointer;
+    margin-left: -40px;
+  }
+
+  .cancel {
+    background-color: rgb(245, 10, 10);
+    padding: 5px;
+    height: auto;
+    margin: 20px;
+    align-content: center;
+    cursor: pointer;
+    margin-left: 150px;
+    
+  }
+
+  .display {
+    color: black;
+    align-content: center;
+    text-align: center;
+  }
+
+  .ok {
+    color: black;
+    background-color: rgb(70, 130, 243);
+    padding: 5px;
+    align-content: center;
+    display: none;
+    cursor: pointer;
+    border-radius: 5px;
+    border: 1px solid #bfcdcf;
+    bottom: 500px;
+    margin: 1 auto;
+    left: 200px;
+  }
